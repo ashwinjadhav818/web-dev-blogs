@@ -1,11 +1,6 @@
 # Web Dev Blogs
 
-## Features
-
-You Will Find Web Dev Related Blogs In This Extension
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
+## You Will Find Web Dev Related Blogs Just In Seconds
 ## Installation
 1. Open the extensions sidebar on Visual Studio Code
 2. Search for **Web Dev Blogs**
