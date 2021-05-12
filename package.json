@@ -15,6 +15,14 @@
   "bugs": {
     "url": "https://github.com/AshAll-Rounder/web-dev-blogs/issues"
   },
+  "keywords": [
+    "Web Dev Blogs",
+    "Web Devevlopnment Blogs",
+    "WDS",
+    "Blogs",
+    "Web Dev",
+    "Web Devevlopnment"
+],
   "engines": {
     "vscode": "^1.56.0"
   },
